@@ -1,6 +1,6 @@
 # Teamable
 
-This is a demo app created for the purpose of learning basic IT subject.
+This is a demo app created to learn basic IT subjects.
 
 ### To run the tests, executer
 
@@ -13,3 +13,5 @@ This is a demo app created for the purpose of learning basic IT subject.
 ### To build the application, execute
 
     npm build
+
+The Application runs on port 3000
